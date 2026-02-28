@@ -1668,7 +1668,7 @@ NODE_CLASS_MAPPINGS = {
 NODE_DISPLAY_NAME_MAPPINGS = {
     "KIE_GetRemainingCredits": "KIE Get Remaining Credits",
     "KIE_NanoBananaPro_Image": "KIE Nano Banana Pro (Image)",
-    "KIE_NanoBanana2_Image": "KIE Nano Banana 2 (Image)",
+    "KIE_NanoBanana2_Image": "Nano Banana 2",
     "KIE_Seedream45_TextToImage": "KIE Seedream 4.5 Text-To-Image",
     "KIE_Seedream45_Edit": "KIE Seedream 4.5 Edit",
     "KIE_SeedanceV1Pro_Fast_I2V": "KIE Seedance V1 Pro Fast (I2V)",

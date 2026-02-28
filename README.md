@@ -40,7 +40,7 @@ This node pack currently includes the following nodes:
 ## Image Nodes
 - **Nano Banana Pro Image**
   - Image generation node using the Googles Nano Banana Pro model
-- **Nano Banana 2 Image**
+- **Nano Banana 2**
   - Image generation node using Nano Banana 2.
   - Supports optional Google web-search grounding and up to 14 input images.
 - **Seedream Text-to-Image / Edit**
